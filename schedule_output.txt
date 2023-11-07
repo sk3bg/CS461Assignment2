@@ -1,0 +1,57 @@
+Schedule = {
+	SLA100A = {
+		Room = Roman 201
+		Time = 1PM
+		Facilitator = Banks
+	}
+	SLA100B = {
+		Room = Frank 119
+		Time = 2PM
+		Facilitator = Glen
+	}
+	SLA191A = {
+		Room = Loft 206
+		Time = 10AM
+		Facilitator = Glen
+	}
+	SLA191B = {
+		Room = Loft 310
+		Time = 3PM
+		Facilitator = Glen
+	}
+	SLA201 = {
+		Room = Beach 201
+		Time = 1PM
+		Facilitator = Zeldin
+	}
+	SLA291 = {
+		Room = Beach 301
+		Time = 3PM
+		Facilitator = Zeldin
+	}
+	SLA303 = {
+		Room = Beach 201
+		Time = 12PM
+		Facilitator = Banks
+	}
+	SLA304 = {
+		Room = Slater 003
+		Time = 2PM
+		Facilitator = Banks
+	}
+	SLA394 = {
+		Room = Slater 003
+		Time = 3PM
+		Facilitator = Tyler
+	}
+	SLA449 = {
+		Room = Frank 119
+		Time = 12PM
+		Facilitator = Zeldin
+	}
+	SLA451 = {
+		Room = Loft 310
+		Time = 11AM
+		Facilitator = Tyler
+	}
+}
